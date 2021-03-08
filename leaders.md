@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sergio Perea](mailto:sergio.perea@owasp.org)
+* [Yannick Constantin](mailto:yannick.constantin@owasp.org)
